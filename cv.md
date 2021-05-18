@@ -5,19 +5,19 @@ permalink: /cv/
 ---
 
 ## Shelby Wilcox ## 
-East Lansing, Michigan | 612-251-3643 | wilcox54@msu.edu
+East Lansing, Michigan | wilcox54@msu.edu 
 ### Education ###
 
-Michigan State University 							         East Lansing, MI 
-Ph.D. in Communication	                                                        		           Expected 2023
+Michigan State University, East Lansing, MI 
+Ph.D. in Communication, Expected 2023
 Advisor: Ralf Schmälzle, PhD.
 
-The Ohio State University ,  Columbus, OH
-Master of Arts in Communication	                                                        			   2019
+The Ohio State University, Columbus, OH
+Master of Arts in Communication, 2019
 Advisor: Richard Huskey, PhD.
 
-University of Minnesota Twin Cities                                                                      Minneapolis, MN
-Bachelor of Science in Psychology                                                                                                     2016
+University of Minnesota Twin Cities, Minneapolis, MN
+Bachelor of Science in Psychology, minor in Neuroscience, 2016
 
 ### Awards ###
 
@@ -72,42 +72,42 @@ Undergraduate Research Opportunity Award. University of Minnesota Twin-Cities, $
 6.	Huskey, R., Wilcox, S., & Weber, R. (2018, March). Using graph theory to uncover the brain network organization underlying flow experiences during a semi-naturalistic behavioral paradigm. Annual Meeting of the Cognitive Neuroscience Society, Boston, MA.
 
 ### Research Experience ### 
-#### NEUROSCIENCE OF MESSAGES LAB: Research Assistant 
-Principal Investigator: Ralf Schmälzle, Ph.D. 		                          AUG 2019- CURRENT                                                                                                                  
+#### NEUROSCIENCE OF MESSAGES LAB: Research Assistant  | AUG 2019- CURRENT  
+Principal Investigator: Ralf Schmälzle, Ph.D. 		                                                                                                                                            
 Prepare materials for research protocol and IRB review
 Project based work on interpersonal communication
 Participate in research team meetings 
 
-#### COGNITIVE COMMUNICATION SCIENCE LAB: Research Assistant 
-Principal Investigator: Richard Huskey, Ph.D. 		                         AUG 2017- MAY 2019                                                                                                                  
+#### COGNITIVE COMMUNICATION SCIENCE LAB: Research Assistant  | AUG 2017- MAY 2019
+Principal Investigator: Richard Huskey, Ph.D. 		                                                                                                                                          
 Write, edit, and assist with preparing manuscripts for conference and journal submission
 Investigate motivational and attentional shifts during media use using video game stimuli
 Organize and maintain participant recruitment information for lab studies
 Assisted with and independently conducted fMRI studies to determine brain behavior during media use
 
-#### GEWIRTZ AFFECTIVE NEUROSCIENCE LAB: Research Assistant 
-Principal Investigator: Jonathan Gewirtz, Ph.D. 	                                         FEB 2016- JAN 2017                                                                                                                  
+#### GEWIRTZ AFFECTIVE NEUROSCIENCE LAB: Research Assistant  | FEB 2016- JAN 2017 
+Principal Investigator: Jonathan Gewirtz, Ph.D. 	                                                                                                                                                          
 Explore sex specific differences in social and affective behavior with mouse models using social fear transference paradigms 
 Collaborate with graduate students to assist in maintaining mouse colonies, immunoassays, and ongoing behavioral testing
 Design paradigms and techniques to assess female mouse social behavior throughout estrous then collecting, analyzing, and interpreting data to present to the lab members and University faculty
 
-#### REACH LAB: Research Assistant 
-Principal Investigator: Lynn Borden, Ph.D.                                                      MAY 2015- JAN 2017
+#### REACH LAB: Research Assistant  |  MAY 2015- JAN 2017
+Principal Investigator: Lynn Borden, Ph.D.                                                     
 
 Prepared research reports on youth development, and Service members psychological well-being for the Department of Defense
 Developed and edited online modules used in training programs for various military and youth organizations, and policy makers 
 Updated data management systems in Mendeley, Excel, and Google Docs to improve lab efficiency and productivity 
 
-#### FEDERICO LAB: Research Assistant
-Principal Investigator: Christopher Federico, Ph.D.	                            JAN 2015- JAN 2016
+#### FEDERICO LAB: Research Assistant |  JAN 2015- JAN 2016
+Principal Investigator: Christopher Federico, Ph.D.	                           
 
 Managed participant information from past studies and maintained participant communication and survey responses in follow-up studies
 Used SPSS to analyze survey responses collected from previous online studies 
 Administered online studies and collected data on moral ambivalence and political attitude
 Participated in weekly lab discussion on relevant findings in political and moral psychology while also giving feedback to assist fellow lab members in developing studies
 
-#### BRAIN AND BEHAVIORAL PROCESSES LAB: Research Assistant 
-Principal Investigator: Monica Luciana, Ph.D., 	                           	          SEPT 2014- MAY 2015
+#### BRAIN AND BEHAVIORAL PROCESSES LAB: Research Assistant  | SEPT 2014- MAY 2015
+Principal Investigator: Monica Luciana, Ph.D. 	                           	          
 
 Assisted in battery tests administration to investigate intelligence, reasoning, and cognitive abilities, (i.e. impulse-control, language, and memory) in adolescents whom used alcohol and drugs and adolescents whom did not use alcohol or drugs
 Assisted with running fMRI experiments in human subjects to study questions of drug and alcohol use on prefrontal cortex development
@@ -118,59 +118,60 @@ Participated in or lead lab meeting discussions on relevant findings of cognitiv
 ·	Identity and Impressions Online (Oct, 2019). Introduction to Communication Technology, School of Communication, Ohio State University.
 
 ### Teaching Experience
-#### HUMAN COMMUNICATION: Section Leader 
-Michigan State University 	                                                                                AUT  2019- AUT 2020
+#### HUMAN COMMUNICATION: Section Leader   | AUT  2019- AUT 2020, SUM 2021
+Michigan State University 	                                                                                
 3 credit undergraduate course  
 
 Address theoretical and practical perspectives of human communication, including interpersonal, intercultural, health, and mass communication, in addition to developing communication skills that prepare for students for future professional experiences, like formal public speaking.
 
-#### PERSUASIVE COMMUNICATION: Instructor  
-The Ohio State University 	                                                               			        SPR 2019
+#### PERSUASIVE COMMUNICATION: Instructor    | SPR 2019
+The Ohio State University 	                                                               			       
 3 credit online undergraduate course 
 
 Second-level writing course designed to increase student’s understanding of persuasive communication, or messages intended to influence people’s attitudes and behaviors.
 
-#### INTRODUCTION TO COMMUNICATION TECHNOLOGY: Teaching Assistant 
-Teresa Lynch, Ph.D., The Ohio State University 	                                                              AUT 2018
+#### INTRODUCTION TO COMMUNICATION TECHNOLOGY: Teaching Assistant   | AUT 2018
+Teresa Lynch, Ph.D., The Ohio State University 	                                                              
 3 credit hybrid undergraduate course 
 
 An introduction to major communication technologies and how people interact with and use them. Students consider and discuss the varying impact communication technologies have had on society, relationships, and individuals
 
-#### MASS COMMUNICATION AND SOCIETY: Teaching Assistant 
-Kathryn “Kaatie” Cooper, Ph.D., The Ohio State University 	                                 SUM 2018
+#### MASS COMMUNICATION AND SOCIETY: Teaching Assistant   | SUM 2018
+Kathryn “Kaatie” Cooper, Ph.D., The Ohio State University                                 
 3 credit online undergraduate course 
 
 Analysis of basic issues affecting media performance; especially social and cultural norms, organizational and occupational variables, and the assessment of the effects of the resulting performance.
 
-#### SOCIAL IMPLICATIONS OF COMMUNICATION TECHNOLOGY: Teaching Assistant 
-Siyue “April” Li, Ph.D., The Ohio State University 		                                                 SPR 2018
+#### SOCIAL IMPLICATIONS OF COMMUNICATION TECHNOLOGY: Teaching Assistant   | SPR 2018
+Siyue “April” Li, Ph.D., The Ohio State University 		     
 3 credit undergraduate course
 
 Advanced study of a current topic in telecommunication and electronic media industry structures.
 
-INTERCULTURAL COMMUNICATION: Teaching Assistant 
-Olga Kamenchuk, Ph.D., The Ohio State University	                                                AUT 2017
-·	3 credit undergraduate course
-·	Examination of the role of intercultural communication in organizational contexts and the attendant effects on the creation and transmission of cultural consciousness, knowledge, tradition, and practices
+#### INTERCULTURAL COMMUNICATION: Teaching Assistant | AUT 2017
+Olga Kamenchuk, Ph.D., The Ohio State University	                                                
+3 credit undergraduate course
+
+Examination of the role of intercultural communication in organizational contexts and the attendant effects on the creation and transmission of cultural consciousness, knowledge, tradition, and practices
 
 ### Service to the Discipline
-MICHIGAN STATE UNIVERSITY:
-#### Association of Graduate Students in Communication, 
-Colloquium committee						     2019-2020
-Council of Graduate Students representative                                                    2019-
+**MICHIGAN STATE UNIVERSITY:**
+*Association of Graduate Students in Communication, 
+Colloquium committee |    2019-2020
+Council of Graduate Students representative | 2019-
 
-#### University Council for the Library,
-Open Access subcommittee 						               2019-
+*University Council for the Library,
+Open Access subcommittee |           2019-
 
-THE OHIO STATE UNIVERSITY:
-#### Graduate Student Committee, Graduate student representative 	                   2018-2019
-#### Graduate student mentor 							     2018-2019
+**THE OHIO STATE UNIVERSITY:**
+*Graduate Student Committee, Graduate student representative | 2018-2019
+Graduate student mentor | 2018-2019
 
-INTERNATIONAL COMMUNICATION ASSOCIATION:
-#### Ad-hoc reviewer						             	                   	  2018-
+**INTERNATIONAL COMMUNICATION ASSOCIATION:**
+ *Ad-hoc reviewer	| 2018-
 
-NATIONAL COMMUNICATION ASSOCIATION:
-#### Ad-hoc reviewer						             	                   	  2019-
+**NATIONAL COMMUNICATION ASSOCIATION:** 
+*Ad-hoc reviewer | 2019-
 
 #### Software Programming Languages 
 •	Bash
