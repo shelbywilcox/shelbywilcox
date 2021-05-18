@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+permalink: /aboutme/
+subtitle: Get to Know Shelby
 ---
+My name is Shelby Wilcox. I'm a graduate student of the Department of Communication, Michigan State University. 
+I focus on how social factors influence message processing and how message processing predicts memory and behaviors. I am interested in studying messages across contexts such as social media posts, narratives, health campaigns, and interpersonal conversations.
 
-My name is Inigo Montoya. I have the following qualities:
+During my undergraduate career, I was able to work under incredible mentors and developed a love for research. That passion has driven me to pursue a career where I can spend my life pursuing my research interests, collaborating with different scholars, and mentoring future researchers.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My short term goals are to continue developing my programming skills (specifically R & Python), learn more statistical and machine-learning tools to analyze brain data, and successfully propose my pre-lim!
 
-What else do you need?
+I am always looking to collaborate and work with other graduate students/ early career researchers! If you have stumbled across this page and are interested in chatting more, please contact me!
 
-### My story
+If you're wondering what I do outside of academia, here are a few things:
+1. Spending time with my dog, Kona.
+2. Finding ways to reduce my waste and be more eco-friendly!
+3. Getting involved with campus or community work.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
