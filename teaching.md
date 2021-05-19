@@ -24,7 +24,7 @@ COMM 3440 Mass Communication and Society*
 COMM 3554 Social Implications of Communication Technology*
 COMM 3668 Intercultural Communication*
 
-* *teaching assistant*
+**teaching assistant*
 
 
 ### Resources I've used for decolonizing my classroom ###
