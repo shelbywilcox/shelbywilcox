@@ -13,7 +13,7 @@ These experiences have been rewarding and I plan to continue improving my teachi
 ### Courses taught ###
 
 ### Resources I've used for decolonizing my classroom ###
-These are some resources that have helped me re-think what an inclusive and equal classroom means and my role in creating that space.
+These are some resources that have helped me re-think what an inclusive classroom means and my role in creating that space.
 
 1. [Step 1](https://ncte.org/blog/2019/04/decolonizing-the-classroom/ "Step 1")
 2. [Decolonize your syllabus](https://liberatedgenius.com/2018/decolonize-your-syllabus/ "Decolonize your syllabus")
