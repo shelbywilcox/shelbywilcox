@@ -13,17 +13,17 @@ These experiences have been rewarding and I plan to continue improving my teachi
 ### Courses taught ###
 **Michgan State University**
 
-COM 240 Introduction to Organizational Communication* 
-COM 100 Human Communication
+1. COM 240 Introduction to Organizational Communication* 
+2. COM 100 Human Communication
 
 
 **The Ohio State University**
 
-COMM 2367 Persuasive Communication
-COMM 2540 Introduction to Communication Technology* 
-COMM 3440 Mass Communication and Society* 
-COMM 3554 Social Implications of Communication Technology* 
-COMM 3668 Intercultural Communication* 
+1. COMM 2367 Persuasive Communication
+2. COMM 2540 Introduction to Communication Technology* 
+3. COMM 3440 Mass Communication and Society* 
+4. COMM 3554 Social Implications of Communication Technology* 
+5. COMM 3668 Intercultural Communication* 
 
 **teaching assistant*
 
