@@ -11,6 +11,19 @@ Being responsive and open-minded to student’s needs has continuously helped me
 These experiences have been rewarding and I plan to continue improving my teaching by prioritize creating more inclusive environments and curriculums, and supporting students in their academic pursuits.
 
 ### Courses taught ###
+**Michgan State University**
+COM 240 Introduction to Organizational Communication*
+COM 100 Human Communication
+
+**The Ohio State University**
+COMM 2367 Persuasive Communication
+COMM 2540 Introduction to Communication Technology*
+COMM 3440 Mass Communication and Society*
+COMM 3554 Social Implications of Communication Technology*
+COMM 3668 Intercultural Communication*
+
+** *teaching assistant 
+
 
 ### Resources I've used for decolonizing my classroom ###
 These are some resources that have helped me re-think what an inclusive classroom means and my role in creating that space.
