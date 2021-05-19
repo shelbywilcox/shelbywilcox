@@ -156,22 +156,22 @@ Examination of the role of intercultural communication in organizational context
 
 ### Service to the Discipline
 **MICHIGAN STATE UNIVERSITY:**
-*Association of Graduate Students in Communication, 
+Association of Graduate Students in Communication, 
 Colloquium committee |    2019-2020
 Council of Graduate Students representative | 2019-
 
-*University Council for the Library,
+University Council for the Library,
 Open Access subcommittee |           2019-
 
 **THE OHIO STATE UNIVERSITY:**
-*Graduate Student Committee, Graduate student representative | 2018-2019
+Graduate Student Committee, Graduate student representative | 2018-2019
 Graduate student mentor | 2018-2019
 
 **INTERNATIONAL COMMUNICATION ASSOCIATION:**
- *Ad-hoc reviewer	| 2018-
+Ad-hoc reviewer	| 2018-
 
 **NATIONAL COMMUNICATION ASSOCIATION:** 
-*Ad-hoc reviewer | 2019-
+Ad-hoc reviewer | 2019-
 
 #### Software Programming Languages 
 •	Bash
