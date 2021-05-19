@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /aboutme/
-subtitle: Get to Know Shelby
+subtitle: Get to know my research
 ---
 My name is Shelby Wilcox. I'm a graduate student of the Department of Communication, Michigan State University. I am a member of the [NOM Lab](https://nomcomm.github.io/ "NOM Lab"), and advised by the NOM lab's PI, [Dr. Ralf Schmaelzle](http://www.ralfschmaelzle.net/ "Dr. Ralf Schmaelzle").
 
