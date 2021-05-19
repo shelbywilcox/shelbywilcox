@@ -92,10 +92,10 @@ keywords: "interpersonal neuroscience,shelby wilcox,message processing,health me
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#FFFFFF"
-navbar-text-col: "#18453b"
+navbar-text-col: "#404040"
 navbar-border-col: "#FFFFFF"
 page-col: "#FFFFFF"
-text-col: "#404040"
+text-col: "#18453b" 
 link-col: "#006600"
 hover-col: "#3caa92"
 footer-col: "#EAEAEA"
