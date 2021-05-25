@@ -17,8 +17,8 @@ navbar-links:
     - About: "aboutme/"
     - Projects: "projects/"
     - Publications: "pubs/"
-    Teaching: "teach/"
-    CV: "cv_sp2021_SW.pdf"
+  Teaching: "teach/"
+  CV: "cv_sp2021_SW.pdf"
    
 
 # --- Logo --- #
