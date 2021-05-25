@@ -10,7 +10,6 @@ permalink: /pubs/
 <br><br>
 Schmälzle, R., Wilcox, S., & Grall, C. (2021). Neuroimaging in Environmental Communication Research. In. Takahashi , Metag, Thaker & Evans-Comfort: ICA-Routledge Handbook of International Trends in Environmental Communication.
 <br><br>
-<br>
 Wilcox, S., Dorrance Hall, E., Holmstrom, A.J. & Schmälzle, R. (2020). The emerging frontier of interpersonal communication and neuroscience: scanning the social synapse. Annals of the International Communication Association. [pdf](https://www.tandfonline.com/eprint/R6CV7ACTBTEWNMTG3CT6/full?target=10.1080/23808985.2020.1843366)
 <br><br>
 Huskey, R., Wilcox, S., Clayton, R., & Keene, J. R. (2020). The limited capacity model of motivated mediated message processing: Meta-analytically summarizing two decades of research. Annals of the International Communication Association, 44(4), 322–349. 
