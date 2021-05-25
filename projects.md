@@ -4,7 +4,7 @@ title: Research Projects
 permalink: /projects/
 ---
 
-### Persuasive message come in many forms, through friends in-person or online, from goverment organizations like online health campaigns, or even subtle messages in a narrative.###
+### Persuasive message come in many forms, through friends in-person or online, from goverment organizations like online health campaigns, or even subtle messages in a narrative.
 
 All of these messages have the potential to influence us by grabbing your attention, eliciting positive or negative cognitive responses, and ultimately impacting our memories, beliefs, and behaviors. My goal is to understand how language in these messages affects this process from attention to long-term outcomes. To this end, I compare brain activity and self-report measures (i.e., reactance, counteraguing, intentions) in response to persuasive health messages to reveal both similarities and differences in how messages are processed. </span>
 
