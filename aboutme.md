@@ -17,4 +17,4 @@ If you're wondering what I do outside of academia, here are a few things:
 1. Spending time with my dog, Kona.
 2. Finding ways to reduce my waste and be more eco-friendly!
 3. Getting involved with campus or community work.
-4. Reading manga.
+4. Reading manga, anything psychological. My all-time fav is Tokyo Ghoul.
