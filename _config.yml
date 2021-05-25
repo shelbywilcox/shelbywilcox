@@ -19,10 +19,7 @@ navbar-links:
     - Publications: "pubs/"
   CV: "cv_sp2021_SW.pdf"
   Teaching: "teach/"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  
+   
 
 # --- Logo --- #
 
