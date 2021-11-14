@@ -16,10 +16,12 @@ navbar-links:
   About Me: 
     - About: "aboutme/"
     - Projects: "projects/"
-    - Publications: "pubs/"
+    - Publications: "pubs/"  
   Teaching: "teach/"
   CV: "cv_sp2021_SW.pdf"
-   
+  NCA21:
+    - Job Marktet: "scan cvs_and_grad_student_well_being_nca21.docx.pdf"
+    - Reactance: "Face Threat and Reactance.pdf"
 
 # --- Logo --- #
 
