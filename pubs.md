@@ -8,6 +8,12 @@ permalink: /pubs/
 <br>
 <br>
 <br><br>
+Schmälzle, R., Wilcox, S. (accepted). Harnessing AI for health message generation: The Folic Acid message engine. Journal of Medical Internet Research.
+<br><br>
+Dorrance Hall., E., Wilcox, S., Holmstrom, A. J., McGraw, J., Schmaelzle, R. (accepted) Reactance to healthy eating and physical activity messages: face threat and face management strategies in memorable daily conversations among couples. Health Communication.
+<br><br>
+Huskey, R., Keene, J., Wilcox, S., Gong, X., Adams, R., Najera, C. J. (in press) Flexible and modular brain network dynamics characterize flow experiences during media ese: A functional magnetic resonance imaging study. Journal of Communication.
+<br><br>
 Schmälzle, R., Wilcox, S., & Grall, C. (2021). Neuroimaging in Environmental Communication Research. In. Takahashi , Metag, Thaker & Evans-Comfort: ICA-Routledge Handbook of International Trends in Environmental Communication.
 <br><br>
 Wilcox, S., Dorrance Hall, E., Holmstrom, A.J. & Schmälzle, R. (2020). The emerging frontier of interpersonal communication and neuroscience: scanning the social synapse. Annals of the International Communication Association. [pdf](https://www.tandfonline.com/eprint/R6CV7ACTBTEWNMTG3CT6/full?target=10.1080/23808985.2020.1843366)
