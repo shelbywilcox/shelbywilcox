@@ -11,7 +11,7 @@ Flexible deadlines, emphasising qualitative feedback, encouraging vulnerability 
 
 Being responsive and open-minded to student’s needs has helped my students to enjoy the course more. Their enjoyment is made evident through their positive end-of-semester evaulations from my class. Furthermore, students I have taught have gone on to win awards in my department, even referencing their experiences in my class as a reason they love communication as a major. 
 
-These experiences have been rewarding and I plan to continue improving my teaching by prioritize creating more inclusive environments and curriculums, and supporting students in their academic pursuits.
+These experiences have been rewarding and I plan to continue improving my teaching by creating more inclusive environments and curriculums, and supporting students in their academic pursuits.
 
 ### Courses taught ###
 **Michgan State University**
