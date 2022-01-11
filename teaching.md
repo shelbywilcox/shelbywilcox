@@ -41,3 +41,14 @@ These are some resources that have helped me re-think what an inclusive classroo
 4. [Decolonization is not a metaphor](https://clas.osu.edu/sites/clas.osu.edu/files/Tuck%20and%20Yang%202012%20Decolonization%20is%20not%20a%20metaphor.pdf)
 5. [Editorial on decolonizing education, perspectives and spaces](https://www.tandfonline.com/doi/abs/10.1080/13504622.2013.877708)
 6. [Decolonizing Educational Research: From Ownership to Answerability](https://www.routledge.com/Decolonizing-Educational-Research-From-Ownership-to-Answerability/Patel/p/book/9781138998728)
+
+### Student Feedback ###
+2021
+
+"I really appreciate how much help you have given us students in our recitation to ensure our academic sucess. Thank you so much for being so fluid and communicative especially through this very hectic past couple of weeks. I really enjoyed having you as a TA and I appreciate all your efforts you made for our class. Again, thank you for all that you do!"
+
+"Thank you for being such a great TA this last semester and for making me enjoy coming to your class once a week! I really was dreading taking this class but you made it so enjoyable and a safe place to learn and make mistakes."
+
+"I would like to thank you for all you did this semester and showing up every day to teach us. Although I was the quiet kid in the class, I actually enjoyed coming to your class because you made learning easy. You said it was your first year teaching [this] class, which you did great, you have a teaching style that's timeless. My friend and I said after the last class that you're gonna be the cool professor, if that's what you plan to do, which you should."
+
+
