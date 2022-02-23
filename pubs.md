@@ -8,13 +8,16 @@ permalink: /pubs/
 <br>
 <br>
 <br><br>
-Schmälzle, R., Wilcox, S. (accepted). Harnessing AI for health message generation: The Folic Acid message engine. Journal of Medical Internet Research.
+Schmälzle, R., Wilcox, S., Jahn, N. T. (in press). Identifying moments of peak audience engagement from brain responses during story listening. Communication
+Monographs [pdf](https://www.tandfonline.com/doi/pdf/10.1080/03637751.2022.2032229)
 <br><br>
-Dorrance Hall., E., Wilcox, S., Holmstrom, A. J., McGraw, J., Schmaelzle, R. (accepted) Reactance to healthy eating and physical activity messages: face threat and face management strategies in memorable daily conversations among couples. Health Communication.
+Schmälzle, R., Wilcox, S. (in press). Harnessing AI for health message generation: The Folic Acid message engine. Journal of Medical Internet Research. [link](https://www.jmir.org/2022/1/e28858/)
 <br><br>
-Wilcox, S., Huskey, R. DeAndrea, D.C. (in press). Attitude consistent health messages about electronic cigarettes increase processing time; Perceiving message senders as socially close increases message recall. Journal of Media Psychology. Advance online publication. doi: 10.1027/1864-1105/a000312 [pdf](https://cogcommscience.com/wp-content/uploads/2021/11/wilcox_et_al_2021.pdf)
+Dorrance Hall., E., Wilcox, S., Holmstrom, A. J., McGraw, J., Schmaelzle, R. (2021) Reactance to healthy eating and physical activity messages: face threat and face management strategies in memorable daily conversations among couples. Health Communication. [pdf](https://www.tandfonline.com/doi/pdf/10.1080/10410236.2021.2010354)
 <br><br>
-Huskey, R., Keene, J., Wilcox, S., Gong, X., Adams, R., Najera, C. J. (in press) Flexible and modular brain network dynamics characterize flow experiences during media ese: A functional magnetic resonance imaging study. Journal of Communication. Advance online publication. doi: 10.1093/joc/jqab044 [pdf](https://cogcommscience.com/wp-content/uploads/2021/11/huskey_et_al_2021.pdf)
+Wilcox, S., Huskey, R. DeAndrea, D.C. (2021). Attitude consistent health messages about electronic cigarettes increase processing time; Perceiving message senders as socially close increases message recall. Journal of Media Psychology. Advance online publication. doi: 10.1027/1864-1105/a000312 [pdf](https://cogcommscience.com/wp-content/uploads/2021/11/wilcox_et_al_2021.pdf)
+<br><br>
+Huskey, R., Keene, J., Wilcox, S., Gong, X., Adams, R., Najera, C. J. (2021) Flexible and modular brain network dynamics characterize flow experiences during media ese: A functional magnetic resonance imaging study. Journal of Communication. Advance online publication. doi: 10.1093/joc/jqab044 [pdf](https://cogcommscience.com/wp-content/uploads/2021/11/huskey_et_al_2021.pdf)
 <br><br>
 Schmälzle, R., Wilcox, S., & Grall, C. (2021). Neuroimaging in Environmental Communication Research. In. Takahashi , Metag, Thaker & Evans-Comfort: ICA-Routledge Handbook of International Trends in Environmental Communication.
 <br><br>
