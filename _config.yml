@@ -19,10 +19,7 @@ navbar-links:
     - Publications: "pubs/"  
   Teaching: "teach/"
   CV: "cv_sp2021_SW.pdf"
-  NCA21:
-    - CVs: "scan cvs_and_grad_student_well_being_nca21.docx.pdf"
-    - Health: "Face Threat and Reactance.pdf"
-
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
