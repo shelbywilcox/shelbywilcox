@@ -35,7 +35,7 @@ These experiences have been rewarding and I plan to continue improving my teachi
 ### Resources I've used for decolonizing my classroom ###
 These are some resources that have helped me re-think what an inclusive classroom means and my role in creating that space. First and foremost, decolonizing means
 land back. Land back and classroom inclusiveness is particularly poignant at land-grant universities like MSU. To better understand the role that land grant
-universities continue to play in colonization, please see the Land Grab project here: https://www.landgrabu.org/
+universities continue to play in colonization, please see the Land Grab project here: [https://www.landgrabu.org/](https://www.landgrabu.org/)
 
 1. [Step 1](https://ncte.org/blog/2019/04/decolonizing-the-classroom/ "Step 1")
 2. [Decolonize your syllabus](https://liberatedgenius.com/2018/decolonize-your-syllabus/ "Decolonize your syllabus")
