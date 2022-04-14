@@ -9,7 +9,7 @@ My teaching experiences have led me to realize the importance of developing a th
 
 Flexible deadlines, emphasising qualitative feedback, encouraging vulnerability and risk-taking in their work, and demonstrating mindfulness are some of the ways I practice my student-centered approach. Putting the students’ needs and expectations first allows me to provide more engaging, diverse lectures while also empowering students to be more active in their participation. 
 
-Being responsive and open-minded to student’s needs has helped my students to enjoy the course more. Their enjoyment is made evident through their positive end-of-semester evaulations from my class. Furthermore, students I have taught have gone on to win awards in my department, even referencing their experiences in my class as a reason they love communication as a major. 
+Being responsive and open-minded to student’s needs has helped my students to enjoy the course more. Their enjoyment is made evident through their positive end-of-semester evaulations from my class. Students I have taught have gone on to win awards in my department, even referencing their experiences in my class as a reason they love communication as a major. One of my other points of teaching related pride is that I have written 4 letters of recommendation for students going on to graduate school, and several more letters in support of students applying to various scholarships. 
 
 These experiences have been rewarding and I plan to continue improving my teaching by creating more inclusive environments and curriculums, and supporting students in their academic pursuits.
 
