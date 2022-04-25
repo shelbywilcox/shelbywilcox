@@ -54,4 +54,8 @@ universities continue to play in colonization, please see the Land Grab project 
 
 "I would like to thank you for all you did this semester and showing up every day to teach us. Although I was the quiet kid in the class, I actually enjoyed coming to your class because you made learning easy. You said it was your first year teaching [this] class, which you did great, you have a teaching style that's timeless. My friend and I said after the last class that you're gonna be the cool professor, if that's what you plan to do, which you should."
 
+2019 COM 100
 
+"You were so helpful and kind! Thank you so much for everything you did for me"
+
+"Thank you so much for your constant support and patience. I can definitely say I'm coming out of this class a better speaker than before and honestly a little more confident so thank you again. I wish you the best in all your endeavours."
