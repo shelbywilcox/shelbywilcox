@@ -46,6 +46,10 @@ universities continue to play in colonization, please see the Land Grab project 
 7. [Land Grant Universities and Land Back](https://nativeland.info/blog/topics/native-agriculture-land-use/from-land-grant-to-landback-a-story-of-loss-and-resilience/)
 
 ### Student Feedback ###
+2022 COM 300 
+
+"I hope you know that I noticed/appreciated the small things you did all semester. I loved how in depth and thorough you were with all your examples; you really are a great teacher. You helped me absorb the information I needed this semester. I don't know if people have told you but I, and other included are thankful that you got to be our TA. Thank you for your, dedication, positive vibes, and jokes."
+
 2021 COM 300
 
 "I really appreciate how much help you have given us students in our recitation to ensure our academic sucess. Thank you so much for being so fluid and communicative especially through this very hectic past couple of weeks. I really enjoyed having you as a TA and I appreciate all your efforts you made for our class. Again, thank you for all that you do!" 
