@@ -48,6 +48,8 @@ universities continue to play in colonization, please see the Land Grab project 
 ### Student Feedback ###
 2022 COM 300 
 
+"Thank you for being such a helpful TA. Your kindness, patience and care for your students doesn't go unnoticed. I couldn't have gotten through w/o you!"
+
 "I hope you know that I noticed/appreciated the small things you did all semester. I loved how in depth and thorough you were with all your examples; you really are a great teacher. You helped me absorb the information I needed this semester. I don't know if people have told you but I, and other included are thankful that you got to be our TA. Thank you for your, dedication, positive vibes, and jokes."
 
 2021 COM 300
