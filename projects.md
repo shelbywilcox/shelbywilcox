@@ -1,12 +1,8 @@
 ---
 layout: page
 title: Research Projects
-permalink: /projects/
+permalink: /Broadly, I Study persuasive health messages and message effects on memory and health beahviors/
 ---
-
-## Broadly, I Study persuasive health messages and message effects on memory and health beahviors
-
-
 
 ### Combining neuroscience and self-report to study message effects
 
