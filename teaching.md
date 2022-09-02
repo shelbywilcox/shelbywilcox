@@ -10,16 +10,16 @@ My philosophy in the classroom is to practice a student-centered approach. To me
 
 
 ### Philosophy in practice
-Flexible deadlines, emphasising qualitative feedback, encouraging vulnerability and risk-taking in their work, and demonstrating trauma informed teaching are some of the ways I practice my student-centered approach. Putting the students’ needs and expectations first allows me to provide more engaging, diverse lectures while also empowering students to be more active in their participation. In example, I like to ask student's about media they consume to develop more diverse pop culture examples. I also ask students about social causes they care about and develop examples around those causes to make material engaging. For example, I developed hands on datsets looking at real world data on topics such as climate change and police brutality for students to apply their communication statistics skills they learned in class. Students analyzed the data while learning basic excel skills.
+Flexible deadlines, emphasising qualitative feedback, encouraging vulnerability and risk-taking in their work, and demonstrating trauma informed teaching are some of the ways I practice my student-centered approach. Putting the students’ needs and expectations first allows me to provide more engaging, diverse lectures while also empowering students to be more active in their participation. In example, I like to ask student's about media they consume to develop more diverse pop culture examples. I also ask students about social causes they care about and develop examples around those causes to make material engaging. For example, I developed  datasets looking at real world data on topics such as climate change and police brutality for students to apply their communication statistics skills they learned in class. Students analyzed the data while learning basic excel skills.
 
-Being responsive and open-minded to student’s needs has helped my students to enjoy the course more. Their enjoyment is made evident through their positive end-of-semester evaulations from my class. Another indicator of my teaching effectiveness is that even when attendance is not required, nearly all my students attend class and form strong bonds with each other and me. Students I have taught have gone on to win awards in my department, even referencing their experiences in my class as a reason they love communication as a major. One of my other points of teaching related pride is that I have written 4 letters of recommendation for students going on to graduate school, and several more letters in support of students applying to various scholarships. 
+Being responsive and open-minded to student’s needs has helped my students to enjoy the course more. Their enjoyment is made evident through their positive end-of-semester evaluations from my class. Another indicator of my teaching effectiveness is that even when attendance is not required, nearly all my students attend class and form strong bonds with each other and me. Students I have taught have gone on to win awards in my department, even referencing their experiences in my class as a reason they love communication as a major. One of my other points of teaching related pride is that I have written 4 letters of recommendation for students going on to graduate school, and several more letters in support of students applying to various scholarships. 
 
 ### Goals
 
 These experiences have been rewarding and I plan to continue improving my teaching by creating more inclusive environments and curriculums, and supporting students in their academic pursuits.
 
 ### Courses taught ###
-**Michgan State University**
+**Michigan State University**
 
 1. COM 300 Methods of Communication Inquiry
 2. COM 240 Introduction to Organizational Communication 
