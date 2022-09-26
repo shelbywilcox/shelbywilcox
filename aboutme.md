@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /aboutme/
 ---
-My name is Shelby Wilcox. I'm a graduate student of the Department of Communication, Michigan State University. I am a member of the [NOM Lab](https://nomcomm.github.io/ "NOM Lab"), and advised by the NOM lab's PI, [Dr. Ralf Schmaelzle](http://www.ralfschmaelzle.net/ "Dr. Ralf Schmaelzle").
+My name is Shelby Wilcox. I'm a PhD candidate of the Department of Communication, Michigan State University. I am a member of the [NOM Lab](https://nomcomm.github.io/ "NOM Lab"), and advised by the NOM lab's PI, [Dr. Ralf Schmaelzle](http://www.ralfschmaelzle.net/ "Dr. Ralf Schmaelzle").
 
 My research focuses on how a person's beliefs and interpersonal influences affect message processing and how message processing predicts memory and behaviors. Health messages sometimes deeply impact us whereas other times they're completely forgettable. My research focuses on what makes those messages memorable by examining message effects like counterarguing, face threat, reactance, acceptance, and neural measures like intersubject correlation. I am interested in studying messages across contexts such as social media posts, narratives, health campaigns, and interpersonal conversations. 
 
