@@ -45,7 +45,7 @@ universities continue to play in colonization, please see the Land Grab project 
 1. [Step 1](https://ncte.org/blog/2019/04/decolonizing-the-classroom/ "Step 1")
 2. [Decolonize your syllabus](https://liberatedgenius.com/2018/decolonize-your-syllabus/ "Decolonize your syllabus")
 3. [Inclusive teaching](https://www.insidehighered.com/advice/2020/02/19/practical-steps-toward-more-inclusive-teaching-opinion "Inclusive teaching")
-4. [Decolonization is not a metaphor](https://clas.osu.edu/sites/clas.osu.edu/files/Tuck%20and%20Yang%202012%20Decolonization%20is%20not%20a%20metaphor.pdf)
+4. [Overview of Cabral and Fanon](https://journals.sagepub.com/doi/abs/10.1177/00219347221077272?journalCode=jbsa)
 5. [Editorial on decolonizing education, perspectives and spaces](https://www.tandfonline.com/doi/abs/10.1080/13504622.2013.877708)
 6. [Decolonizing Educational Research: From Ownership to Answerability](https://www.routledge.com/Decolonizing-Educational-Research-From-Ownership-to-Answerability/Patel/p/book/9781138998728)
 7. [Land Grant Universities and Land Back](https://nativeland.info/blog/topics/native-agriculture-land-use/from-land-grant-to-landback-a-story-of-loss-and-resilience/)
