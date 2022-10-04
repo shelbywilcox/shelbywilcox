@@ -21,9 +21,10 @@ These experiences have been rewarding and I plan to continue improving my teachi
 ### Courses taught ###
 **Michigan State University**
 
-1. COM 300 Methods of Communication Inquiry
-2. COM 240 Introduction to Organizational Communication 
-3. COM 100 Human Communication
+1. COM 475 Communication Campaign Design and Analysis (W)
+2. COM 300 Methods of Communication Inquiry
+3. COM 240 Introduction to Organizational Communication 
+4. COM 100 Human Communication
 
 
 **The Ohio State University**
@@ -34,10 +35,10 @@ These experiences have been rewarding and I plan to continue improving my teachi
 4. COMM 3554 Social Implications of Communication Technology* 
 5. COMM 3668 Intercultural Communication* 
 
-**teaching assistant*
+**indicates teaching assistant*
 
 
-### Resources I've used for decolonizing my classroom ###
+### Resources I've used for better understanding decolonization###
 These are some resources that have helped me re-think what an inclusive classroom means and my role in creating that space. First and foremost, decolonizing means
 land back. Land back and classroom inclusiveness is particularly poignant at land-grant universities like MSU. To better understand the role that land grant
 universities continue to play in colonization, please see the Land Grab project here: [https://www.landgrabu.org/](https://www.landgrabu.org/)
@@ -49,6 +50,8 @@ universities continue to play in colonization, please see the Land Grab project 
 5. [Editorial on decolonizing education, perspectives and spaces](https://www.tandfonline.com/doi/abs/10.1080/13504622.2013.877708)
 6. [Decolonizing Educational Research: From Ownership to Answerability](https://www.routledge.com/Decolonizing-Educational-Research-From-Ownership-to-Answerability/Patel/p/book/9781138998728)
 7. [Land Grant Universities and Land Back](https://nativeland.info/blog/topics/native-agriculture-land-use/from-land-grant-to-landback-a-story-of-loss-and-resilience/)
+8. [Queer of Color Critique Readings](https://www.library.wisc.edu/gwslibrarian/bibliographies/queering-praxis-expressions-and-activism/queer-of-color-critique/)
+9. [Engaging Black Women's Knowledge](https://anthrosource.onlinelibrary.wiley.com/doi/full/10.14506/ca37.2.02)
 
 ### Student Feedback ###
 2022 COM 300 
