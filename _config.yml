@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Super Star Person of the Year
+title: Shelby Wilcox
 
 
 # --- List of links in the navigation bar --- #
@@ -19,8 +19,7 @@ navbar-links:
     - Pubs: "pubs/"  
   Teaching: "teach/"
   CV: "cv_sp2022_SW.pdf"
-  Resources: "resources/"
-  
+    
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
