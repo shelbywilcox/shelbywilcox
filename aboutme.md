@@ -9,7 +9,7 @@ My research focuses on how a person's beliefs and interpersonal influences affec
 
 During my undergraduate career, I was able to work under incredible mentors and developed a love for research. That passion has driven me to pursue a career where I can spend my life pursuing my research interests, collaborating with different scholars, and mentoring future researchers.
 
-My short term goals are to continue developing my programming skills (specifically R & Python), learn more statistical and machine-learning tools to analyze brain data, and successfully propose my pre-lim!
+My short term goals are to enjoy my last year at MSU, simplify my code to improve the reproducibility (specifically jupyter notebooks), learn more network and time series analyses for brain data, and wrap up my projects focused on grad student mental health!
 
 I am always looking to collaborate and work with other graduate students/ early career researchers! If you have stumbled across this page and are interested in chatting more, please contact me!
 
@@ -17,4 +17,5 @@ If you're wondering what I do outside of academia, here are a few things:
 1. Spending time with my dog, Kona.
 2. Finding ways to reduce my waste and be more eco-friendly!
 3. Getting involved with campus or community work.
-4. Reading manga, anything psychological. My all-time fav is Tokyo Ghoul.
+4. Advocating for better systems and resources to protect graduate students mental health.
+5. Reading manga, anything psychological. My all-time favs are Tokyo Ghoul and Dorohedero.
