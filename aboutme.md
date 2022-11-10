@@ -9,7 +9,7 @@ Health messages sometimes deeply impact us, whereas other times they are complet
 including diary surveys, functional neuroimaging (fMRI), electroencephalography (EEG), natural language processing/machine learning, and lab experiments. I study message processing and effects across contexts such as social media posts, movies/television, health campaigns, and interpersonal conversations. The goal of this work is to better understand how people intake information from health messages, especially information contrary to their own beliefs, and how this impacts their subsequent
 behavior and relationships.
 
-During my undergraduate career, I was able to work under incredible mentors and developed a love for research. That passion has driven me to pursue a career where I can spend my life pursuing my research interests, collaborating with different scholars, and mentoring future researchers.
+During my undergraduate career, I was able to work under incredible mentors and developed a love for research. That passion has driven me to pursue a career where I can spend my life advancing social science, collaborating with different scholars, and mentoring future researchers.
 
 My short term goals are to enjoy my last year at MSU, simplify my code to improve the reproducibility (specifically jupyter notebooks), learn more network and time series analyses for brain data, and wrap up my projects focused on grad student mental health!
 
