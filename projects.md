@@ -5,9 +5,9 @@ permalink: /projects/
 subtitle: Broadly, I study persuasive health messages and message effects on memory and health beahviors
 ---
 
-### Combining neuroscience and self-report to study message effects
 
-Persuasive messages have the potential to influence us by grabbing our attention, eliciting positive or negative cognitive responses, and ultimately impacting our memories, beliefs, and behaviors. My goal is to understand how language in these messages affects this process from attention to long-term outcomes. To this end, I compare brain activity and self-report measures (i.e., reactance, counterarguing, intentions) in response to persuasive health messages to reveal both similarities and differences in how messages are processed. 
+### Combining neuroscience and self-report 
+Persuasive messages have the potential to influence us by grabbing our attention, eliciting positive or negative cognitive responses, and ultimately impacting our memories, beliefs, and behaviors. My goal is to understand how language in these messages affects this process from attention to long-term outcomes. To this end, I compare brain activity and self-report measures (i.e., reactance, counterarguing, intentions) in response to persuasive health messages to reveal both similarities and differences in how messages are processed. Another line of work considers the effects of flow. Working with Dr. Richard Huskey and several other wonderful collaborators, we have published some articles testing the synchronization theory of flow. Check out the [press coverage](https://www.ucdavis.edu/curiosity/news/study-looks-brain-flow-and-how-people-achieve-it).
 
 ### Manipulating language in health messages to study message processing, memory, and subsequent interpersonal conversations about related health topics
 
