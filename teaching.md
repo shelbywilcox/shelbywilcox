@@ -18,7 +18,7 @@ Being responsive and open-minded to student’s needs has helped my students to 
 
 These experiences have been rewarding and I plan to continue improving my teaching by creating more inclusive environments and curriculums, and supporting students in their academic pursuits.
 
-### Courses taught ###
+### Courses taught 
 **Michigan State University**
 
 1. COM 475 Communication Campaign Design and Analysis (W)
@@ -38,7 +38,7 @@ These experiences have been rewarding and I plan to continue improving my teachi
 **indicates teaching assistant*
 
 
-### Resources I've used for better understanding decolonization###
+### Resources I've used for better understanding decolonization
 These are some resources that have helped me re-think what an inclusive classroom means and my role in creating that space. First and foremost, decolonizing means
 land back. Land back and classroom inclusiveness is particularly poignant at land-grant universities like MSU. To better understand the role that land grant
 universities continue to play in colonization, please see the Land Grab project here: [https://www.landgrabu.org/](https://www.landgrabu.org/)
