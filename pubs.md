@@ -8,6 +8,8 @@ permalink: /pubs/
 <br>
 <br>
 <br><br>
+Holmstrom, A., Dorrance Hall, E., Wilcox, S., Schmälzle, R. (2023). Confirmation, disconfirmation, and communal coping for joint physical activity in romantic dyads. Health Communication.
+<br><br>
 Schmälzle, R., Wilcox, S., Jahn, N. T. (in press). Identifying moments of peak audience engagement from brain responses during story listening. Communication
 Monographs [pdf](https://www.tandfonline.com/doi/pdf/10.1080/03637751.2022.2032229)
 <br><br>
