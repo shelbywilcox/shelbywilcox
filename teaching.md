@@ -16,15 +16,16 @@ Being responsive and open-minded to student’s needs has helped my students to 
 
 ### Goals
 
-These experiences have been rewarding and I plan to continue improving my teaching by creating more inclusive environments and curriculums, and supporting students in their academic pursuits.
+These experiences have been rewarding and I plan to continue improving my teaching by creating more inclusive environments and interactive tools, and supporting learners in their pursuits.
 
 ### Courses taught 
 **Michigan State University**
 
-1. COM 475 Communication Campaign Design and Analysis (W)
-2. COM 300 Methods of Communication Inquiry
-3. COM 240 Introduction to Organizational Communication 
-4. COM 100 Human Communication
+1. COM 325 Interpersonal Influence and Conflict
+2. COM 475 Communication Campaign Design and Analysis (W)
+3. COM 300 Methods of Communication Inquiry
+4. COM 240 Introduction to Organizational Communication 
+5. COM 100 Human Communication
 
 
 **The Ohio State University**
