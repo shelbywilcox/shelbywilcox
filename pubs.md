@@ -10,10 +10,10 @@ permalink: /pubs/
 <br><br>
 Holmstrom, A., Dorrance Hall, E., Wilcox, S., Schmälzle, R. (2023). Confirmation, disconfirmation, and communal coping for joint physical activity in romantic dyads. Health Communication.
 <br><br>
-Schmälzle, R., Wilcox, S., Jahn, N. T. (in press). Identifying moments of peak audience engagement from brain responses during story listening. Communication
+Schmälzle, R., Wilcox, S., Jahn, N. T. (2022). Identifying moments of peak audience engagement from brain responses during story listening. Communication
 Monographs [pdf](https://www.tandfonline.com/doi/pdf/10.1080/03637751.2022.2032229)
 <br><br>
-Schmälzle, R., Wilcox, S. (in press). Harnessing AI for health message generation: The Folic Acid message engine. Journal of Medical Internet Research. [link](https://www.jmir.org/2022/1/e28858/)
+Schmälzle, R., Wilcox, S. (2022). Harnessing AI for health message generation: The Folic Acid message engine. Journal of Medical Internet Research. [link](https://www.jmir.org/2022/1/e28858/)
 <br><br>
 Dorrance Hall., E., Wilcox, S., Holmstrom, A. J., McGraw, J., Schmaelzle, R. (2021) Reactance to healthy eating and physical activity messages: face threat and face management strategies in memorable daily conversations among couples. Health Communication. [pdf](https://www.tandfonline.com/doi/pdf/10.1080/10410236.2021.2010354)
 <br><br>
